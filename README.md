@@ -1,16 +1,34 @@
 # flutter_test_app
 
-A new Flutter application.
+A new Flutter application to illustrate basics of flutter with android and ios ui comparison.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Basics Covered in the app
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Linear Layout (Vertical) Vertical StackView Column
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Linear Layout (Horizontal) Horizontal StackView Row
+
+Bottom Navigation
+
+Scroll View
+
+Loading Indicator
+
+Recycler View (Vertical)
+
+Collection View (Recycler Horizontal)
+
+Bottom Sheet
+
+Stack View
+
+
+For any query contact at 
+##mr.dishantmahajan@gmail.com
+
+
+
