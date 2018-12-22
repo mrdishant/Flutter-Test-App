@@ -28,7 +28,7 @@ Stack View
 
 
 For any query contact at 
-##mr.dishantmahajan@gmail.com
+mr.dishantmahajan@gmail.com
 
 
 
