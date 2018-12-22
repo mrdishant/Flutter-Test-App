@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "996486820914",
+    "firebase_url": "https://angular7567.firebaseio.com",
+    "project_id": "angular7567",
+    "storage_bucket": "angular7567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996486820914:android:50de8d74ba5e96ef",
+        "android_client_info": {
+          "package_name": "com.auribises.fluttertestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996486820914-ffq3mtqjfbn8t6olqv53ejms1fkhniia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIJU-wTN8G90_VVGSRyTMWztCXE5YmZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
